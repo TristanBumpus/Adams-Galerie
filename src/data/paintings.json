@@ -1,0 +1,20 @@
+[
+  {
+    "img": "./image/large_paintings/painting_1.jpeg",
+    "title": "They’re Laughing about you, you probably should too",
+    "desc": "Les Rigolos, Machoire envolée, Sun kissed women & laughing mule",
+    "date": "Summer 25"
+  },
+  {
+    "img": "./image/large_paintings/painting_2.jpeg",
+    "title": "Désormais",
+    "desc": "Si je, Now, From now on if you do",
+    "date": "Summer 25"
+  },
+  {
+    "img": "./image/large_paintings/painting_3.jpeg",
+    "title": "I didn’t know you were the type to let things happen that way",
+    "desc": "Lignes works",
+    "date": "Summer 25"
+  }
+]

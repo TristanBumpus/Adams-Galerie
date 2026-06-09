@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5vh 0;
+
+  img {
+    width: 5vw;
+    transition: 0.1s all ease-in-out;
+  }
+  img:hover {
+    scale: 1.1;
+    translate: 0 -1vh;
+  }
+}
